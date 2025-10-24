@@ -1,0 +1,11 @@
+# === CapriAI Requirements ===
+# These are the Python packages needed to run your local RAG system.
+
+openai==1.2.0
+pinecone==5.0.0
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+pdfplumber==0.9.0
+playwright==1.39.0
+flask==3.0.0
